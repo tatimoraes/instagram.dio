@@ -4,3 +4,5 @@ Nesse projeto recriei a página inicial de login do Instagram, no qual foi abord
 
 ![alt text](https://github.com/tatimoraes/instagram.dio/blob/master/img/projeto_insta.png)
 
+Curso disponível na plataforma DIO.
+
